@@ -1,0 +1,2 @@
+# Tools for working on JARVIS itself (not needed to run it)
+pyflakes>=3.2
